@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @ponght
 - 👀 I’m interested in QA Engineer Automation
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning about automate test tools.
+- 📫 How to reach me ponght@gmail.com
 
 <!---
 ponght/ponght is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
